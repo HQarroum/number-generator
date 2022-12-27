@@ -11,7 +11,7 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/hqarroum/number-generator/badge)](https://www.codefactor.io/repository/github/hqarroum/number-generator)
 [![DeepSource](https://deepsource.io/gh/HQarroum/number-generator.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/HQarroum/number-generator/?ref=repository-badge)
 
-Current version: **1.0.0**
+Current version: **1.0.1**
 
 ## 📋 Table of content
 

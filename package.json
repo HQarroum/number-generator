@@ -1,6 +1,6 @@
 {
   "name": "generate-numbers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A multi-threaded generator allowing to generate a large dataset of random numbers.",
   "main": "index.js",
   "type": "module",
